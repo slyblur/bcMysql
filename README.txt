@@ -1,0 +1,1 @@
+Relational database exercises using DBMS: MySQL and sql language. 
